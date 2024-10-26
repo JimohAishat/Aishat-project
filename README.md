@@ -1,5 +1,6 @@
 # LITA Project
-**DATA ANALYSIS**-Analysing Arise & shine salary structure for 2023
+**DATA ANALYSIS**-Arise & shine salary structure Chart for the year2023.
+---
 # # # 
 
 
