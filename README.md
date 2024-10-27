@@ -1,11 +1,14 @@
 # LITA_Project
 
-Project Topic:
-**Data Analysis**
+### Project Title:
+Data Analysis
 _Arise & shine salary structure Chart for the year 2023.
 ---
+### Project overview
+This data analysis project aim to get the actual salary in Arise & shine company for the year 2023. by analysing the pay based on department and staff position coupled with other allowances e.g housing, transportation, meal,leave etc.
 
-**TABLE OF CONTENT**
+### TABLE OF CONTENT
+
 - What is data
 - Project Data source
 - Tools used for analysis
@@ -14,7 +17,7 @@ _Arise & shine salary structure Chart for the year 2023.
 - visualization
 
 ---
-**WHAT IS DATA**
+### WHAT IS DATA
 
 Data refers to qualitative or quantitative information that's used for analysis, decision making or computation,it can various forms, such as:
 1. Numbers
@@ -23,19 +26,19 @@ Data refers to qualitative or quantitative information that's used for analysis,
 4. video
 Data can be: STRUCTURED, UNSTRUCTURED AND SEMI STRUCTURED which are Organized, unorganized and partially organized
 ---
-**PROJECT DATA SOURCE**
+### PROJECT DATA SOURCE
 
 This data set is an open data given by my facilitator during training but i gave it a name which is 'Arise & shine salary structured'
 
 ---
-**TOOLS USED FOR ANALYSIS**
+### TOOLS USED FOR ANALYSIS
 
 - Microsoft Excel is the tool used for the analysis coupled with its formular and functions
 EXCEL is a powerful spreadsheet software used for analysing data, reporting, budgeting and visualising
 [download microsoft excel](https://www.google.com/search?q=microsoft+excel+download&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIMCAAQRRg5GLEDGIAEMgYIARBFGDsyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBCTE1NTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
   
 ---
-**SUMMARIZATION**
+### SUMMARIZATION
 
 Pivot table is used to summarize datasets
 - Analyze data from multiple angles
@@ -43,7 +46,7 @@ Pivot table is used to summarize datasets
 - identify trends and patterns
 
 ---
-**Data Analysis**
+### Data Analysis
 
 With the use of excel our data was analysed with the excel funtions & formular
 
