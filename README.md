@@ -49,15 +49,13 @@ Pivot table is used to summarize datasets
 ### Data Analysis
 
 - **Excel** our data was analysed with the excel funtions & formular
+![Uploading ARISE AND SHINE SALARY.PNG…]()
 
 
 
 
 
 
-
-
-![VISUALIZATION](https://github.com/user-attachments/assets/2bfe1090-0749-482c-8050-7feda78a794c)
 
 
 
