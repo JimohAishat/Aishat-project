@@ -9,7 +9,7 @@ This data analysis project aim to get the actual salary in Arise & shine company
 
 ### TABLE OF CONTENT
 
-- What is data
+- [WHAT IS DATA](#what-is-data)
 - Project Data source
 - Tools used for analysis
 - Data analysis
