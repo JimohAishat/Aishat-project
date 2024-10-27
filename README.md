@@ -33,7 +33,7 @@ This data set is an open data given by my facilitator during training but i gave
 ---
 ### TOOLS USED FOR ANALYSIS
 
-- Microsoft Excel is the tool used for the analysis coupled with its formular and functions
+- Microsoft Excel is the tool used for analysing and data cleaning
 EXCEL is a powerful spreadsheet software used for analysing data, reporting, budgeting and visualising
 [download microsoft excel](https://www.google.com/search?q=microsoft+excel+download&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIMCAAQRRg5GLEDGIAEMgYIARBFGDsyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBCTE1NTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
   
