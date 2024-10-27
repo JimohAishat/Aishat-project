@@ -55,8 +55,8 @@ EXCEL is a powerful spreadsheet software used for analysing data, reporting, bud
 
 
 |Heading 1||Heading 2||Heading 3|
-|----------||----------||-------|
-|Table 1|Table 2||Table 3|
+|---------||----------||--------|
+|
 
 
 
