@@ -38,20 +38,20 @@ EXCEL is a powerful spreadsheet software used for analysing data, reporting, bud
 [download microsoft excel](https://www.google.com/search?q=microsoft+excel+download&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIMCAAQRRg5GLEDGIAEMgYIARBFGDsyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBCTE1NTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
   
 ---
-### SUMMARIZATION
-
-Pivot table is used to summarize datasets
-- Analyze data from multiple angles
-- create custom views
-- identify trends and patterns
-
----
 ### Data Analysis
 
 - **Excel** our data was analysed with the excel funtions & formular
 
 ![ARISE AND SHINE SALARY](https://github.com/user-attachments/assets/6e441d61-c6a5-458d-9278-0f64bd64bd68)
 
+### VISUALIZATION
+
+**Pivot chart** pivot table Is used for data summarization 
+- Analyze data from multiple angles
+- create custom views
+- identify trends and patterns
+
+![Uploading VISUALIZATION.PNG…]()
 
 
 
