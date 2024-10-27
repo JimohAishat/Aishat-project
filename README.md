@@ -49,6 +49,7 @@ Pivot table is used to summarize datasets
 ### Data Analysis
 
 - **Excel** our data was analysed with the excel funtions & formular
+
 ![Uploading ARISE AND SHINE SALARY.PNG…]()
 
 
