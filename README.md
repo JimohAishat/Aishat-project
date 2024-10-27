@@ -12,7 +12,6 @@ This data analysis project aim to get the actual salary in Arise & shine company
 - What is data
 - Project Data source
 - Tools used for analysis
-- Summarization
 - Data analysis
 - visualization
 
@@ -44,6 +43,7 @@ EXCEL is a powerful spreadsheet software used for analysing data, reporting, bud
 
 ![ARISE AND SHINE SALARY](https://github.com/user-attachments/assets/6e441d61-c6a5-458d-9278-0f64bd64bd68)
 
+---
 ### VISUALIZATION
 
 **Pivot chart** pivot table Is used for data summarization 
