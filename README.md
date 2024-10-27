@@ -50,7 +50,10 @@ Pivot table is used to summarize datasets
 
 - **Excel** our data was analysed with the excel funtions & formular
 
-![Uploading ARISE AND SHINE SALARY.PNG…]()
+![ARISE AND SHINE SALARY](https://github.com/user-attachments/assets/6e441d61-c6a5-458d-9278-0f64bd64bd68)
+
+
+
 
 
 
