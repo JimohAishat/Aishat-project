@@ -51,7 +51,8 @@ EXCEL is a powerful spreadsheet software used for analysing data, reporting, bud
 - create custom views
 - identify trends and patterns
 
-![Uploading VISUALIZATION.PNG…]()
+![VISUALIZATION](https://github.com/user-attachments/assets/81836224-0646-45b5-be29-c28a5e3e960c)
+
 
 
 
