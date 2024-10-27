@@ -10,10 +10,10 @@ This data analysis project aim to get the actual salary in Arise & shine company
 ### TABLE OF CONTENT
 
 - [WHAT IS DATA](#what-is-data)
-- Project Data source
-- Tools used for analysis
-- Data analysis
-- visualization
+- [DATA SOURCE](#data-source)
+- [TOOLS USED FOR ANALYSIS](#tools-used-for-analysis)
+- [DATA ANALYSIS](#data-analysis)
+- [VISUALIZATION](#visualization)
 
 ---
 ### WHAT IS DATA
@@ -25,7 +25,7 @@ Data refers to qualitative or quantitative information that's used for analysis,
 4. video
 Data can be: STRUCTURED, UNSTRUCTURED AND SEMI STRUCTURED which are Organized, unorganized and partially organized
 ---
-### PROJECT DATA SOURCE
+### DATA SOURCE
 
 This data set is an open data given by my facilitator during training but i gave it a name which is 'Arise & shine salary structured'
 
@@ -37,7 +37,7 @@ EXCEL is a powerful spreadsheet software used for analysing data, reporting, bud
 [download microsoft excel](https://www.google.com/search?q=microsoft+excel+download&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIMCAAQRRg5GLEDGIAEMgYIARBFGDsyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBCTE1NTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
   
 ---
-### Data Analysis
+### DATA ANALYSIS
 
 - **Excel** our data was analysed with the excel funtions & formular
 
